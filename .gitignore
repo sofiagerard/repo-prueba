@@ -1,2 +1,9 @@
-*.pdf
 *.csv
+*.pdf
+<<<<<<< HEAD
+*.csv
+=======
+*.html
+*.dat
+
+>>>>>>> 02bc39688034cfebf2b2f00250e1efaecfafc7f1
